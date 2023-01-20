@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "Ganesh",
+      "name": "Kummara Ganesh",
+      "email": "saahoganesh@gmail.com",
+      "password": "ganesh@1234",
+      "phone": "8309306489",
+      "address": "Laddigam, Chittoor, AP, 517257",
+      "gender": "male",
+      "country": ""
+    },
+    {
+      "id": "Robert",
+      "name": "Steve Robert",
+      "email": "steve@gmail.com",
+      "password": "123556",
+      "phone": "8179924835",
+      "address": "bellandur, bangalore 560103",
+      "gender": "male",
+      "country": "russia"
+    }
+  ]
+}
